@@ -1,2 +1,2 @@
-# JavascriptOdevleri
-Patika Academy.dev Javascript kursunun 1. ödev içeriğidir.
+# Landing Page Projesi ve Responsive Tasarım
+Udemy / Modern Web Geliştirme Kursu Projesi
